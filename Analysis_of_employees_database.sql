@@ -241,16 +241,3 @@ END$$
 DELIMITER ;
 
 SELECT emp_info('Aruna', 'Journel');    
-
-
-
-
-
-
-
-
-
-     
-
-
-
